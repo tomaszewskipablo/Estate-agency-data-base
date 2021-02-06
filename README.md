@@ -1,5 +1,5 @@
 # Estate-agency-data-base
-Data base in SQL
+Data base in SQL created for assessing the suitability of secondary keys and query optimization.
 
 ## Entity–relationship model:
  SQL code for creating data base can be found in CreateDB.sql file.
